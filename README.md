@@ -1,4 +1,4 @@
-# 2048-game-deploy
+# 2048-game-deployed with AWS EBS
 ## Dockerfile
 ![image](https://github.com/user-attachments/assets/d2a9ee96-b866-44d9-8d00-b9d82698e06e)
 ## Result of trivy scan
